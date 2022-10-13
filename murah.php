@@ -2,6 +2,7 @@
 
 echo @color("white","───────────────────────────────────────────\n");
 echo @color("white","            TEMBAK PAKET TRI 2022                  \n");
+echo @color("red","                   @MhmdSairi                 \n");
 echo @color("white","───────────────────────────────────────────\n");
 echo @color('white', "Masukkan Nomor\t\t: ");
 $nomor = trim(fgets(STDIN));
